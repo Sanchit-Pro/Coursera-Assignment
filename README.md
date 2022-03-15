@@ -2,3 +2,7 @@
 ## Module 2
 
 ### [Solution](https://sanchit-pro.github.io/Coursera-Assignment/Module2-Solutions/)
+
+## Module 3
+
+### [Solution] (https://sanchit-pro.github.io/Coursera-Assignment/Module3-Solutions/)
