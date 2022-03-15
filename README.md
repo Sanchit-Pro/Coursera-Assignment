@@ -5,4 +5,4 @@
 
 ## Module 3
 
-### [Solution] (https://sanchit-pro.github.io/Coursera-Assignment/Module3-Solutions/)
+### [Solution](https://sanchit-pro.github.io/Coursera-Assignment/Module3-Solutions/)
