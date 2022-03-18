@@ -6,3 +6,7 @@
 ## Module 3
 
 ### [Solution](https://sanchit-pro.github.io/Coursera-Assignment/Module3-Solutions/)
+
+## Module 4
+
+### [Solution](https://sanchit-pro.github.io/Coursera-Assignment/Module4-Solutions/)
